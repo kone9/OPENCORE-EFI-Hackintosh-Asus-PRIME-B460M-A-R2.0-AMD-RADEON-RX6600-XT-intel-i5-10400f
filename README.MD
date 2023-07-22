@@ -2,6 +2,7 @@
 
 ![bootUSB](booting_DISK.jpg)
 ![bootUSB](Desktop.jpg)
+![cloverConfigurator.jpg](cloverConfigurator.jpg)
 
 Note that there are two branches in this repository. One called USB for the EFI that goes on the USB that is used to install the operating system and the other EFI called DISK is for when you have the operating system installed. The EFI DISK of the installed operating system has things that the EFI USB installation does not have since it has different configurations. That is, once you finished installing the OS with the EFI on the USB, you have to boot by usb, but then add the EFI to Disk to properly boot macOS from disk. Only compatible with the mother you mentioned above, for other models you will have to investigate the whole issue of efi and opencore. 
 
@@ -12,7 +13,7 @@ Note that there are two branches in this repository. One called USB for the EFI 
 ## This configuration is very compatible with macOS and the graphics works 100%, tested with unreal engine 5.2
 
 
-![cloverConfigurator.jpg](cloverConfigurator.jpg)
+
 ![mother_01.jpg](mother_01.jpg)
 ![rx6600xt.jpeg](rx6600xt.jpeg)
 ![mother_02.jpg](mother_02.jpg)
