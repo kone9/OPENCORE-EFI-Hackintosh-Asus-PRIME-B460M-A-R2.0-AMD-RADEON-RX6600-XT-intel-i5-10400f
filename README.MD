@@ -7,6 +7,8 @@ Note that there are two branches in this repository. One called USB for the EFI 
 
 ## This EFI has a nicer boot interface, it is configured to boot from disk. keyboard, mouse, network cable, audio and graphics work 100%. Uses Intel i5 10400f processor
 
+## The only detail that it has is that it generates an empty .txt, I couldn't get it out, but it works very well.
+
 ## This configuration is very compatible with macOS.
 
 
