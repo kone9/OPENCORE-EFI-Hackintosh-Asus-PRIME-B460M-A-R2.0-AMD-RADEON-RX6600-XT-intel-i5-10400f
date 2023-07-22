@@ -1,6 +1,6 @@
 # EFI For installation of MacOS ventura with USB.
 
-![bootUSB](bootUSB.jpg)
+![bootUSB](booting_USB.jpg)
 
 Note that there are two branches in this repository. One called USB for the EFI which goes on the USB that is used to install the OS and the other EFI called DISK is for when you have the OS installed.
 The EFI DISK of the installed operating system has things that the USB installation EFI does not have since it has different configurations.
