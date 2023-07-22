@@ -1,4 +1,4 @@
-# EFI For installation of MacOS ventura with USB.
+# EFI to put on the main DISK of your hackintosh once the system is installed. To mount the EFI I used Clover configurator.
 
 ![bootUSB](booting_DISK.jpg)
 ![bootUSB](Desktop.jpg)
