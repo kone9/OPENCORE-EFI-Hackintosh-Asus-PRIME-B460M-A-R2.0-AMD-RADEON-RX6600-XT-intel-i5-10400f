@@ -9,7 +9,7 @@ Note that there are two branches in this repository. One called USB for the EFI 
 
 ## The only detail that it has is that it generates an empty .txt, I couldn't get it out, but it works very well.
 
-## This configuration is very compatible with macOS.
+## This configuration is very compatible with macOS and the graphics works 100%, tested with unreal engine 5.2
 
 
 ![cloverConfigurator.jpg](cloverConfigurator.jpg)
