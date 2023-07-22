@@ -1,9 +1,9 @@
 # EFI For installation of MacOS ventura with USB.
 ![bootUSB](bootUSB.jpg)
-![mother_01.jpg](bootUSB.jpg)
-![rx6600xt.jpeg](bootUSB.jpg)
-![mother_02.jpg](bootUSB.jpg)
-![mother_03.jpg](bootUSB.jpg)
+![mother_01.jpg](mother_01.jpg)
+![rx6600xt.jpeg](rx6600xt.jpg)
+![mother_02.jpg](mother_02.jpg)
+![mother_03.jpg](mother_03.jpg)
 
 
 Note that there are two branches in this repository. One called USB for the EFI which goes on the USB that is used to install the OS and the other EFI called DISK is for when you have the OS installed.
