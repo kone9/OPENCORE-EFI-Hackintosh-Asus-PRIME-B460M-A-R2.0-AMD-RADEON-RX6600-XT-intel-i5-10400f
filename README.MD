@@ -12,6 +12,7 @@ Note that there are two branches in this repository. One called USB for the EFI 
 ## This configuration is very compatible with macOS.
 
 
+![cloverConfigurator.jpg](cloverConfigurator.jpg)
 ![mother_01.jpg](mother_01.jpg)
 ![rx6600xt.jpeg](rx6600xt.jpeg)
 ![mother_02.jpg](mother_02.jpg)
