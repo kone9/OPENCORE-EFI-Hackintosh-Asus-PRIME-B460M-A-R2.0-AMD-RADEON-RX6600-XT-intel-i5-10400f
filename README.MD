@@ -1,9 +1,14 @@
 # EFI For installation of MacOS ventura with USB.
+![bootUSB](bootUSB.jpg)
+![mother_01.jpg](bootUSB.jpg)
+![rx6600xt.jpeg](bootUSB.jpg)
+![mother_02.jpg](bootUSB.jpg)
+![mother_03.jpg](bootUSB.jpg)
 
 
-Note that there are two branches in this repository. One called USB for the EFI that goes on the USB that is used to install the OS and the other EFI called DESKTOP is for when you have the OS installed.
-The EFI DESKTOP of the operating system installed has things that the EFI USB installation does not.
-That is, once you finished installing the operating system with the EFI on the USB, to correctly boot the installed macOS system you have to use the EFI from the "DESKTOP" branch.
-Only compatible with the mother that I mentioned above, for other models you will have to investigate the whole issue of efi and opencore.
+Note that there are two branches in this repository. One called USB for the EFI which goes on the USB that is used to install the OS and the other EFI called DISK is for when you have the OS installed.
+The EFI DISK of the installed operating system has things that the USB installation EFI does not have since it has different configurations.
+That is, once you finished installing the operating system with the EFI on the USB, you have to boot via usb, but then add the EFI to the Disk to correctly boot the macOS system always from the disk without the flash drive
+Only compatible with the mother that you mentioned above, for other models you will have to investigate the whole issue of efi and opencore.
 
-## In this EFI everything is configured to install the operating system, the keyboard and mouse works, the cable network and starts with external graphics amd rx 6600 xt
+## This EFI has a basic boot interface, it is configured to install the operating system with usb, the keyboard, mouse, the cable network and starts with external graphics amd radeon the rx 6600 xt
