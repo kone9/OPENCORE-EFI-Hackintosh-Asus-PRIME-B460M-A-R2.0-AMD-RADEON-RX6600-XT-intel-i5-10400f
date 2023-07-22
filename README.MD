@@ -5,3 +5,5 @@ Note that there are two branches in this repository. One called USB for the EFI 
 The EFI DESKTOP of the operating system installed has things that the EFI USB installation does not.
 That is, once you finished installing the operating system with the EFI on the USB, to correctly boot the installed macOS system you have to use the EFI from the "DESKTOP" branch.
 Only compatible with the mother that I mentioned above, for other models you will have to investigate the whole issue of efi and opencore.
+
+## In this EFI everything is configured to install the operating system, the keyboard works, the cable network and starts with external graphics, in my case I use the rx 6600 x
